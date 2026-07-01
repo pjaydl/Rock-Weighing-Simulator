@@ -1,4 +1,0 @@
-repository "DELA_LUNA-PLATE_NO.1/DELA_LUNA-PLATE_NO.1-CPE121@18968450131357@cloud"
-  path "/"
-    br "/main"
-    co "/main"
