@@ -41,11 +41,13 @@ This project uses the following assets from the Unity Asset Store:
 
 ### 3D Models
 - **Low Poly: Woods Lifestyle**
+  - [Unity Asset Store]([https://assetstore.unity.com/](https://assetstore.unity.com/packages/3d/environments/low-poly-woods-lifestyle-65306)) 
   - Creator: RAD-CODERS
   - Source: Unity Asset Store
   - Used for: Rock/environment assets
 
 - **Kitchen Set - Interior**
+  - [Unity Asset Store]([https://assetstore.unity.com/](https://assetstore.unity.com/packages/3d/props/furniture/kitchen-set-interior-263284))
   - Creator: GENIUSCRATE GAMES
   - Source: Unity Asset Store
   - Used for: Furniture and interior environment assets
