@@ -36,5 +36,21 @@ v0.1.0 Alpha
 ## Developer
 Prince Jay Dela Luna
 
+## Third-Party Assets
+This project uses the following assets from the Unity Asset Store:
+
+### 3D Models
+- **Low Poly: Woods Lifestyle**
+  - Creator: RAD-CODERS
+  - Source: Unity Asset Store
+  - Used for: Rock/environment assets
+
+- **Kitchen Set - Interior**
+  - Creator: GENIUSCRATE GAMES
+  - Source: Unity Asset Store
+  - Used for: Furniture and interior environment assets
+
+All third-party assets remain the property of their respective creators and are used according to their licenses.
+
 ## License
 MIT License
