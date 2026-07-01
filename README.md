@@ -31,7 +31,7 @@ A Unity-based educational physics simulation where players drag and place rocks 
 
 ## Version
 Current Version:
-v0.1.0 Alpha
+v0.1.1 Alpha
 
 ## Developer
 Prince Jay Dela Luna
