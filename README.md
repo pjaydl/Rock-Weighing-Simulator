@@ -19,6 +19,10 @@ A Unity-based educational physics simulation where players drag and place rocks 
 | H | Show/Hide help |
 | ESC | Quit game |
 
+## Screenshots
+![Gameplay](/Screenshot1.png)
+![Help Menu](/Screenshot2.png)
+
 ## Built With
 - Unity 6.3
 - C#
