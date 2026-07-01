@@ -3,7 +3,7 @@ A Unity-based educational physics simulation where players drag and place rocks 
 
 ## Download
 Download the latest Windows build:
-[Rock Weighing Simulator v0.1.1 Alpha](https://github.com/pjaydl/Rock-Weighing-Simulator/releases/download/v0.1.1-alpha/RockWeighingSimulator_v0.1.1_Alpha.zip)
+[Rock Weighing Simulator v0.1.1 Alpha]([https://github.com/pjaydl/Rock-Weighing-Simulator/releases/download/v0.1.1-alpha/RockWeighingSimulator_v0.1.1_Alpha.zip](https://github.com/pjaydl/Rock-Weighing-Simulator/releases/tag/v0.1.1-alpha))
 
 ## Features
 - Drag and drop physics-based rock objects
