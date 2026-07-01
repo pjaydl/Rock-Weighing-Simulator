@@ -20,8 +20,8 @@ A Unity-based educational physics simulation where players drag and place rocks 
 | ESC | Quit game |
 
 ## Screenshots
-![Gameplay](/Screenshot1.png)
-![Help Menu](/Screenshot2.png)
+![Gameplay](/Screenshots/Gameplay.png)
+![Help Menu](/Screenshots/Help-Option.png)
 
 ## Built With
 - Unity 6.3
@@ -31,7 +31,7 @@ A Unity-based educational physics simulation where players drag and place rocks 
 
 ## Version
 Current Version:
-v0.8.0 Alpha
+v0.1.0 Alpha
 
 ## Developer
 Prince Jay Dela Luna
