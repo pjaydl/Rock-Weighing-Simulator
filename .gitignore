@@ -12,3 +12,10 @@
 *.suo
 *.user
 *.userprefs
+*.sln
+*.slnx
+*.csproj
+
+.plastic/
+.vscode/
+
